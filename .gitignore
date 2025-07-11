@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# base files from Udemy course
+#  These files are used in the course and should not be included in the project.
+_base_*
