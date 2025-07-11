@@ -209,3 +209,4 @@ __marimo__/
 # base files from Udemy course
 #  These files are used in the course and should not be included in the project.
 _base_*
+*.joblib
